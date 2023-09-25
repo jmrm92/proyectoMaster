@@ -2,7 +2,7 @@
 Una aplicación web para gestionar el inventario de un concesionario, en la cual se pueden añadir, editar y borrar coches.
 
 ## Instalación
-1. Clona el repositorio: `git clone https://github.com/tu-usuario/tu-proyecto.git`
+1. Clona el repositorio: `https://github.com/jmrm92/proyectoMaster.git`
 2. Instala las dependencias requeridas: `npm install`
 3. Inicia la aplicación: `npm start`
 
